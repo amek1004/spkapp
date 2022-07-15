@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <h1>홈</h1>
+      <h1>Lufthanja</h1>
     </Layout>
   );
 }
